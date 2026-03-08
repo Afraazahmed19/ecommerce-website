@@ -107,13 +107,6 @@ http://localhost/ecommerce-website
 
 ---
 
-## 📸 Screenshots
-
-![Bill-Data](https://github.com/user-attachments/assets/955bc36e-8cb1-4577-944c-b0609c054b45)
-
-
----
-
 ## 📚 Learning Outcomes
 
 * Understanding of full-stack web development
@@ -131,3 +124,4 @@ http://localhost/ecommerce-website
 📱 Phone: +91 7418471672
 
 ---
+
